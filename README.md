@@ -1,4 +1,4 @@
-<!--
+
 # Hi, I'm Manish Gupta 👋
 
 ## About Me
@@ -65,4 +65,4 @@ Aspiring Python Developer with a growing understanding of web technologies inclu
 
 ⭐ Always learning and building new projects.
 
--->
+
